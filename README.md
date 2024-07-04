@@ -22,31 +22,16 @@ A comprehensive membership registration system built with [technology stack] for
 ## Screenshots
 
 ### Home Page
-![Home Page](images/home-page.png)
+![Home Page](images/home_page.png)
 
-### Sign-in Page
-![Sign-U Page](images/sign-in.png)
+### Sign-Up Page
+![Sign-Up Page](images/sign_up_page.png)
 
-### Sign-in Successfull
-![Sign-Up Successfull Page](images/sign-in-succesfull.png)
+### Login Page
+![Login Page](images/login_page.png)
 
-### Admin Login Page
-![Login Page](images/admin-sign-in.png)
-
-### Admin Login Successfull
-![Admin Page](images/admin-signin-succesfull.png)
-
-### Admin User Adding-Listing
-![Admin Page](images/admin-management.png)
-
-### Admin User Editing
-![Admin Page](images/admin-editing.png)
-
-### Admin User Editing
-![Admin Page](images/data-updated.png)
-
-### Admin User Editing
-![Admin Page](images/data-deleted.png)
+### Profile Page
+![Profile Page](images/profile_page.png)
 
 
 ## Usage
