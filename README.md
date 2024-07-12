@@ -17,17 +17,17 @@ A comprehensive membership registration system built with [your actual technolog
 
 ## Screenshots
 
-Home Page
-<img src="images/home_page.png">
+### Home Page
+<img src="/images/home_page.png" alt="Home Page">
 
-Sign-Up Page
-<img src="images/sign_up_page.png">
+### Sign-Up Page
+<img src="/images/sign_up_page.png" alt="Sign-Up Page">
 
-Login Page
-<img src="images/login_page.png">
+### Login Page
+<img src="/images/login_page.png" alt="Login Page">
 
-Profile Page
-<img src="images/profile_page.png">
+### Profile Page
+<img src="/images/profile_page.png" alt="Profile Page">
 
 ## Usage
 
@@ -55,5 +55,4 @@ This project is licensed under the MIT License.
 If you have any questions, feel free to reach out at [your-email@example.com].
 
 ---
-
 
