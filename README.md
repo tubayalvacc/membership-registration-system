@@ -19,20 +19,16 @@ A comprehensive membership registration system built with [technology stack] for
 ## Screenshots
 
 ### Home Page
-![Home Page]( <img width="1230" alt="home_page" src="https://github.com/user-attachments/assets/824e3418-7012-4b96-9314-066d67c87cde">
-)
+![Home Page]( <img width="1230" alt="home_page" src="https://github.com/user-attachments/assets/824e3418-7012-4b96-9314-066d67c87cde">)
 
 ### Sign-Up Page
-![Sign-Up Page](<img width="1230" alt="sign_up_page" src="https://github.com/user-attachments/assets/bcc2ea2f-ca47-481d-9bdd-ae8c39397e10">
-)
+![Sign-Up Page](<img width="1230" alt="sign_up_page" src="https://github.com/user-attachments/assets/bcc2ea2f-ca47-481d-9bdd-ae8c39397e10">)
 
 ### Login Page
-![Login Page](<img width="1230" alt="login_page" src="https://github.com/user-attachments/assets/50a015b1-f766-4389-97e6-6a0c6139f6f6">
-)
+![Login Page](<img width="1230" alt="login_page" src="https://github.com/user-attachments/assets/50a015b1-f766-4389-97e6-6a0c6139f6f6">)
 
 ### Profile Page
-![Profile Page](<img width="1230" alt="profile_page" src="https://github.com/user-attachments/assets/119fe01e-4447-4fc3-88d3-cbee6d50f70f">
-)
+![Profile Page](<img width="1230" alt="profile_page" src="https://github.com/user-attachments/assets/119fe01e-4447-4fc3-88d3-cbee6d50f70f">)
 
 
 ## Usage
