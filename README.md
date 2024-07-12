@@ -1,6 +1,5 @@
 # MemberRegistrationSystem
-A comprehensive membership registration system built with [technology stack] for managing user sign-ups, authentication, and profile management.
-
+A comprehensive membership registration system built with [your actual technology stack] for managing user sign-ups, authentication, and profile management.
 
 ## Features
 
@@ -19,17 +18,16 @@ A comprehensive membership registration system built with [technology stack] for
 ## Screenshots
 
 ### Home Page
-<img src="images/home_page.png">
+<img src="images/home_page.png" alt="Home Page">
 
 ### Sign-Up Page
-<img src="images/sign_up_page.png">
+<img src="images/sign_up_page.png" alt="Sign-Up Page">
 
 ### Login Page
-<img src="images/login_pages.png">
+<img src="images/login_page.png" alt="Login Page">
 
 ### Profile Page
-<img src="images/profile_pages.png">
-
+<img src="images/profile_page.png" alt="Profile Page">
 
 ## Usage
 
@@ -54,7 +52,8 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-If you have any questions, feel free to reach out at [tubayalvacc@gmail.com].
+If you have any questions, feel free to reach out at [your-email@example.com].
 
 ---
+
 
