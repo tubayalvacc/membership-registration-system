@@ -18,16 +18,16 @@ A comprehensive membership registration system built with [your actual technolog
 ## Screenshots
 
 Home Page
-<img src="images/home_page.png" alt="Home Page">
+<img src="images/home_page.png">
 
 Sign-Up Page
-<img src="images/sign_up_page.png" alt="Sign-Up Page">
+<img src="images/sign_up_page.png">
 
 Login Page
-<img src="images/login_page.png" alt="Login Page">
+<img src="images/login_page.png">
 
 Profile Page
-<img src="images/profile_page.png" alt="Profile Page">
+<img src="images/profile_page.png">
 
 ## Usage
 
