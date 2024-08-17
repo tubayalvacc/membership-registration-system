@@ -15,9 +15,9 @@ A comprehensive membership registration system built with [technology stack] for
 ## Technologies Used
 
 - Frontend: HTML, CSS, JavaScript
-- Backend: [Your Backend Framework]
-- Database: [Your Database]
-- Authentication: [Authentication Method]
+- Backend: PHP
+- Database: MySQL
+- Authentication: --
 
 ## Screenshots
 
